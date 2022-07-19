@@ -1,0 +1,26 @@
+{
+	"header": {
+		"status": 200,
+		"errorMessage": "",
+		"currentDate": "2019-02-13T08:11:26.483Z",
+		"totalCount": 0
+	},
+	"body": [
+		{
+			"id": "string",
+			"name": "Order 1",
+			"orderDate": "2019-01-22T02:23:44.321Z",
+			"shippedDate": "2019-02-22T02:23:44.321Z",
+			"customerId": "3456789876543",
+			"status": "InProgressing",
+			"created": "2018-12-22T04:56:09.735Z",
+			"modified": "2018-12-22T04:56:09.735Z",
+			"random": 859
+		}
+	],
+	"pagination": {
+		"limit": 10,
+		"skip": 0,
+		"total": 1
+	}
+}

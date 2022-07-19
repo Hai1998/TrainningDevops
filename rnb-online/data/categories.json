@@ -1,0 +1,38 @@
+{
+	"header": {
+		"status": 200,
+		"errorMessage": "",
+		"currentDate": "2019-02-13T08:07:40.756Z",
+		"totalCount": 0
+	},
+	"body": [
+		{
+			"id": "5b822e7f9c300309b7e9befc",
+			"name": "men",
+			"iconName": "men"
+		},
+		{
+			"id": "5b822e919c300309b7e9bf0e",
+			"name": "women",
+			"iconName": "women"
+		},
+		{
+			"id": "5b822ea99c300309b7e9bf13",
+			"name": "accessories",
+			"iconName": "accessories"
+		},
+		{
+			"id": "5c247ffadce5fc028675484b",
+			"name": "All",
+			"iconName": "All"
+		},
+		{
+			"id": "5c2f8854101e25244ae92af3"
+		}
+	],
+	"pagination": {
+		"limit": 10,
+		"skip": 0,
+		"total": 5
+	}
+}

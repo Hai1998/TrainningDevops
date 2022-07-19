@@ -1,0 +1,30 @@
+{
+	"header": {
+		"status": 200,
+		"errorMessage": "",
+		"currentDate": "2019-02-13T08:10:41.859Z",
+		"totalCount": 0
+	},
+	"body": {
+		"id": "5bcbf511696b664906832522",
+		"name": "Italy Bag",
+		"image": "http://api.demo.nordiccoder.com/images/product_2.png",
+		"thumbnail": "http://api.demo.nordiccoder.com/images/product_2.png",
+		"shortDescription": "product 2",
+		"categoryId": "5b822e919c300309b7e9bf0e",
+		"salePrice": 610,
+		"originalPrice": 710,
+		"images": [
+			"http://api.demo.nordiccoder.com/images/product_2_1.png",
+			"http://api.demo.nordiccoder.com/images/product_2_2.png"
+		],
+		"thumbnails": [
+			"http://api.demo.nordiccoder.com/images/product_2_1.png",
+			"http://api.demo.nordiccoder.com/images/product_2_2.png"
+		]
+	},
+	"pagination": {
+		"limit": 10,
+		"total": 0
+	}
+}
